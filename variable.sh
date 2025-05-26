@@ -1,7 +1,7 @@
 #!/bin/bash/
 
-PERSON1=$PERSON1
-PERSION2=$PERSION2
+PERSON1=Radha
+PERSION2=Raja
 
 echo "$PERSON1 :: Hhi $PERSON2"
 
